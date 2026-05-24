@@ -122,7 +122,4 @@ Computer Science Engineering passionate about:
 - Python
 - Business Intelligence
 
----
 
-# Project Screenshot
-(Add your dashboard screenshot here)
